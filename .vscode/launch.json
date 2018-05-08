@@ -1,0 +1,11 @@
+{
+  "name": "Launch",
+  "type": "chrome",
+  "request": "launch",
+  "url": "http://localhost",
+  "port": 4003,
+  "sourceMaps": true,
+  "diagnosticLogging": true,
+  "webRoot": "${workspaceRoot}",
+  "userDataDir": "${workspaceRoot}/out/chrome"
+}
